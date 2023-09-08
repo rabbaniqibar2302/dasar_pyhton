@@ -1,0 +1,1 @@
+# isinya latihan dasar pyhton
